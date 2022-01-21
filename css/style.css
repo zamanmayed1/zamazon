@@ -4,3 +4,17 @@
 .categories {
   margin-top: 100002px;
 }
+.slider-bg {
+  background-color: #feeae9;
+}
+
+.cata img {
+  width: 80px;
+}
+.cs-btn {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  font-weight: 700;
+  font-size: 3rem;
+  color: white;
+  border: none;
+}
